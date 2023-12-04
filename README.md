@@ -1,3 +1,9 @@
+<picture>
+        <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+        <img alt="github-snake" src="github-snake.svg" />
+      </picture>
+
 ### Ey Galera, bem vindos ao meu Github 👋
 
 São +12 anos de muitas noites sem dormir brincando de programar, estudando tudo e mais um pouco, começando e parando projetos simplesmente para aprender, sou specialista FrontEnd, autodidata, entusiasta de tecnologias no geral e atualmente trabalhando como Staff Engineer... Estudei em vários lugares, na Caelum, Alura, Udemy, Pluralsight e adoro ler livros de tecnologias e desenvolvimento pessoal, ouvir podcasts, ler e escrever documentações, conteúdos online, participar e palestrar em eventos, meetups e amo open source 😄. Tenho como grande paixão o desenvolvimento Web e Mobile, aficionado por novas tecnologias e defensor da idéia de uma Web para todos. Como todo bom FrontEnd que se preze HTML, CSS, JS e um bom cafezinho​ são minhas inspirações diárias⚡.
