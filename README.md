@@ -4,6 +4,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+
 ### Ey Galera, bem vindos ao meu Github 👋
 
 São +12 anos de muitas noites sem dormir brincando de programar, estudando tudo e mais um pouco, começando e parando projetos simplesmente para aprender, sou specialista FrontEnd, autodidata, entusiasta de tecnologias no geral e atualmente trabalhando como Staff Engineer... Estudei em vários lugares, na Caelum, Alura, Udemy, Pluralsight e adoro ler livros de tecnologias e desenvolvimento pessoal, ouvir podcasts, ler e escrever documentações, conteúdos online, participar e palestrar em eventos, meetups e amo open source 😄. Tenho como grande paixão o desenvolvimento Web e Mobile, aficionado por novas tecnologias e defensor da idéia de uma Web para todos. Como todo bom FrontEnd que se preze HTML, CSS, JS e um bom cafezinho​ são minhas inspirações diárias⚡.
